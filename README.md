@@ -73,7 +73,7 @@ install改成uninstall,怎么装怎么卸
     npm whoami
     ```
 - 发布
-    ```js
+    ```
     npm publish
     ```
 
