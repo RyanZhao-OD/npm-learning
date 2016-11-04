@@ -68,10 +68,12 @@ install改成uninstall,怎么装怎么卸
     ```
     npm adduser
     ```
+    
 - 创建账号
     ```
     npm whoami
     ```
+    
 - 发布
     ```
     npm publish
